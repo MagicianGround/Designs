@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="Logo_colorido.svg"
-   inkscape:export-filename="..\MagicianWEB_04\Logo_colorido.svg"
+   inkscape:export-filename="..\MagicianWEB_04\Logo_colorido.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.2632295"
-     inkscape:cx="313.08641"
-     inkscape:cy="627.36026"
+     inkscape:zoom="0.31580738"
+     inkscape:cx="98.161101"
+     inkscape:cy="362.56278"
      inkscape:window-width="1280"
      inkscape:window-height="953"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="297"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
@@ -55,14 +64,14 @@
          sodipodi:role="line">T</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:117.032px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#8cb369;stroke-width:9.75283;fill-opacity:1"
+       style="font-size:117.032px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#8cb369;fill-opacity:1;stroke-width:9.75283"
        x="59.80756"
        y="-51.496265"
        id="text1-8-5"
        transform="scale(0.89683478,-1.1150326)"><tspan
          sodipodi:role="line"
          id="tspan1-8-1"
-         style="stroke-width:9.75283;fill:#8cb369;fill-opacity:1"
+         style="fill:#8cb369;fill-opacity:1;stroke-width:9.75283"
          x="59.80756"
          y="-51.496265">W</tspan></text>
     <circle
@@ -79,7 +88,7 @@
        r="0.019727238" />
     <path
        sodipodi:type="star"
-       style="fill:#bc4b51;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#bc4b51;fill-opacity:1;stroke-width:0.264583"
        id="path19"
        inkscape:flatsided="false"
        sodipodi:sides="5"
@@ -97,7 +106,7 @@
        transform="matrix(0.88800178,0,0,0.87390038,15.727281,14.404737)" />
     <path
        sodipodi:type="star"
-       style="fill:#f4a259;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#f4a259;fill-opacity:1;stroke-width:0.264583"
        id="path19-3"
        inkscape:flatsided="false"
        sodipodi:sides="5"
